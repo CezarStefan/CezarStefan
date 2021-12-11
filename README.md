@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CezarStefan
-- 👀 I’m interested in .NET / React / Python / ML / software in general
-- 🌱 I’m currently learning Software Architecture
+- 👀 I’m interested in .NET / Svelte / Python / ML / software in general
+- 🌱 Software Architecture
 
 <!---
 CezarStefan/CezarStefan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
