@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CezarStefan
-- 👀 I’m interested in .NET / Python / ML / software in general
+- 👀 I’m interested in .NET / Rust / Python / ML
 - 🌱 Software Architecture
 
 <!---
